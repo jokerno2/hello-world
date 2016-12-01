@@ -1,0 +1,9 @@
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\bin\Debug\BouncingLa.exe.config
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\bin\Debug\BouncingLa.exe
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\bin\Debug\BouncingLa.pdb
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.csprojResolveAssemblyReference.cache
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.Form1.resources
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.Properties.Resources.resources
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.csproj.GenerateResource.Cache
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.exe
+c:\users\wbein\documents\visual studio 2015\Projects\BouncingLa\BouncingLa\obj\Debug\BouncingLa.pdb
