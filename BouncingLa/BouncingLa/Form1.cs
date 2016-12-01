@@ -58,5 +58,10 @@ namespace BouncingLa
         {
             ToggleBouncing(2, label3);
         }
+        
+         private void button8_Click(object sender, EventArgs e)
+        {
+            ToggleBouncing(100, label3); // Tony edited
+        }
     }
 }
