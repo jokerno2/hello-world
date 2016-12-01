@@ -46,7 +46,7 @@ namespace BouncingLa
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ToggleBouncing(0, label1);
+            ToggleBouncing(1, label1);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -56,7 +56,7 @@ namespace BouncingLa
 
         private void button3_Click(object sender, EventArgs e)
         {
-            ToggleBouncing(2, label3);
+            ToggleBouncing(3, label3);
         }
     }
 }
